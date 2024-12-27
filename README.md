@@ -1,5 +1,7 @@
 # Otodom
 
+<br>
+
 ## Overview
 
 **Otodom** is a real estate platform that connects property seekers with sellers and landlords. This repository serves as a comprehensive solution for extracting, transforming, and analyzing real estate data from the Otodom website ([https://www.otodom.pl](https://www.otodom.pl)). The insights derived from this project can support decision-making in areas such as market analysis, pricing strategies, and investment opportunities.
