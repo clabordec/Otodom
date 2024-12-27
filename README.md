@@ -1,6 +1,5 @@
 # Otodom
 
-<br>
 
 ## Overview
 
