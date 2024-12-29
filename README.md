@@ -24,7 +24,6 @@
 - Libraries used include:
   - `pandas`: Data manipulation and cleaning.
   - `numpy`: Numerical computations.
-  - `beautifulsoup4` and `selenium`: For web scraping.
   - `requests`: Handling HTTP requests.
 
 ### 3. **Snowflake**
