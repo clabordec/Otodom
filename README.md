@@ -32,7 +32,7 @@
 
 ### 4. **Excel**
 - Used for additional data transformation and creating clear, actionable reports.
-- Provides pivot tables, charting, and dashboard capabilities for visualizing trends and insights.
+- Develop pivot tables, charting, and dashboard capabilities for visualizing trends and insights.
 
 ---
 
